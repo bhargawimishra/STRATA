@@ -1,2 +1,2 @@
 # STRATA
-Paleontological Specimen &amp; Excavation Management System
+Fossil Information &amp; Classification System
